@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/afficher.png</file>
+        <file>image/ajout.png</file>
+        <file>image/Capture copy.png</file>
+        <file>image/check-mark.png</file>
+        <file>image/gen.png</file>
+        <file>image/house.png</file>
+        <file>image/mmodi.png</file>
+        <file>image/re.png</file>
+        <file>image/supp.png</file>
+        <file>image/tri.png</file>
+    </qresource>
+</RCC>
