@@ -1,5 +1,6 @@
 ﻿#include "connexion.h"
 #include<QSqlDatabase>
+//test tutorial git
 connexion::connexion()
 {
 
